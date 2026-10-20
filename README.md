@@ -2,7 +2,7 @@
 
 > **Historical portfolio artifact:** this repository preserves the rendered R Markdown report. The standalone source file is not included.
 
-**[▶ View the rendered report](https://raw.githack.com/izzydi/austin-crime-geospatial-analysis/main/austin_crime_map.html)**
+**[▶ View the rendered report](https://raw.githack.com/izzydi/austin-police-use-of-force-map/main/austin_crime_map.html)**
 
 A geospatial visualisation in R of Austin Police Department use-of-force records for 2014–2016, from the Center for Policing Equity "Data Science for Good" data (department 37-00027). Incident locations are plotted on a street basemap and coloured by the nature of the police contact: traffic stop, viewed offense, warrant service or tactical operation.
 
